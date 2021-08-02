@@ -1,0 +1,14 @@
+body{
+    background-image: url(../assets/front-view-delicious-meat-burger-with-cheese-on-dark-background.jpg);
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto auto;
+    overflow:auto;
+    color: red;
+}
+
+
+CREDITOS DAS IMAGENS
+<p class="iconref"><small><div>Icons made by <a href="https://www.flaticon.com/authors/good-ware" title="Good Ware">Good Ware</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div></small></p>
